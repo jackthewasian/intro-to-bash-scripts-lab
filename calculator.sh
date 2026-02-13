@@ -34,3 +34,4 @@ case $operator in
 esac
 
 echo "Result: $result"
+
